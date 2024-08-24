@@ -1,12 +1,14 @@
-#include<stdio.h>
-int main(){
-    int j;
-    printf("\n%d",j);
-    while(j<=10){
-        printf("\n%d",j);
-        j = j + 1;
+// while loop home work
+
+#include <stdio.h>
+int main()
+{
+    int i = 1;
+    while (i <= 10) 
+    {
+        printf("%d ", i);
+        i++;
     }
- 
 
     return 0;
 }
