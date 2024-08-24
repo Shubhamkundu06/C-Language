@@ -3,11 +3,12 @@
 #include <stdio.h>
 int main()
 {
-    int i = 1;
-    while (i <= 10) 
+    int x = 1;
+    while (x==1) 
     {
-        printf("%d ", i);
-        i++;
+        x = x-1;
+        printf("\n%d ", x);
+        
     }
 
     return 0;
