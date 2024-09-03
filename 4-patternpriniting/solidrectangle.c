@@ -15,7 +15,7 @@ int main (){
     printf("\n"); // har line ke baad ek enter maarne ke liye hai
        
 
-   }
+   }  
    
    
    
