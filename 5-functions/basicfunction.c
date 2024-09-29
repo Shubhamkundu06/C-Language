@@ -7,6 +7,6 @@
  int main (){
     greet();
     greet(); 
-    greet();
+    greet();  
        return 0;
  }
